@@ -15,6 +15,6 @@ function __init__()
 
     JLLWrappers.@generate_init_footer()
     # set environment variable needed by the models
-    ENV["WARMABS_DATA"] = LibXSPEC_Warmabs_jll.artifact_dir * "/data"
+    ENV["WARMABS_DATA"] = expanduser("~/.julia/spectral_fitting_data/warmabs")
 
 end  # __init__()
