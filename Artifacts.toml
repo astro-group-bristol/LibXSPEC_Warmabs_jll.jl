@@ -6,7 +6,7 @@ os = "macos"
 
     [[LibXSPEC_Warmabs.download]]
     sha256 = "70f3259bb9710cea421c9f9ba71f484c77aabd8611ea0176b99cba8749ce8c51"
-    url = "https://github.com/local/releases/download/LibXSPEC_Warmabs-v2.58.5+0/LibXSPEC_Warmabs.v2.58.5.aarch64-apple-darwin-libgfortran5.tar.gz"
+    url = "https://github.com/astro-group-bristol/LibXSPEC_Warmabs_jll.jl/releases/download/LibXSPEC_Warmabs-v2.58.5+0/LibXSPEC_Warmabs.v2.58.5.aarch64-apple-darwin-libgfortran5.tar.gz"
 [[LibXSPEC_Warmabs]]
 arch = "x86_64"
 git-tree-sha1 = "08c8076c1d1dc8667b2798d90407781686aafbf0"
@@ -15,7 +15,7 @@ os = "macos"
 
     [[LibXSPEC_Warmabs.download]]
     sha256 = "cad0950f8ad6775e03f0505feb0e5dd150419c5e390b3ba37f72ac816c4bcf36"
-    url = "https://github.com/local/releases/download/LibXSPEC_Warmabs-v2.58.5+0/LibXSPEC_Warmabs.v2.58.5.x86_64-apple-darwin-libgfortran4.tar.gz"
+    url = "https://github.com/astro-group-bristol/LibXSPEC_Warmabs_jll.jl/releases/download/LibXSPEC_Warmabs-v2.58.5+0/LibXSPEC_Warmabs.v2.58.5.x86_64-apple-darwin-libgfortran4.tar.gz"
 [[LibXSPEC_Warmabs]]
 arch = "x86_64"
 git-tree-sha1 = "c708c9f7c5c2de137b98814bbb356057488aaf49"
@@ -24,7 +24,7 @@ os = "macos"
 
     [[LibXSPEC_Warmabs.download]]
     sha256 = "c62492a63ffef31b20ac68804db7b2af95b683101ac8455f2273a982ea5df4ef"
-    url = "https://github.com/local/releases/download/LibXSPEC_Warmabs-v2.58.5+0/LibXSPEC_Warmabs.v2.58.5.x86_64-apple-darwin-libgfortran5.tar.gz"
+    url = "https://github.com/astro-group-bristol/LibXSPEC_Warmabs_jll.jl/releases/download/LibXSPEC_Warmabs-v2.58.5+0/LibXSPEC_Warmabs.v2.58.5.x86_64-apple-darwin-libgfortran5.tar.gz"
 [[LibXSPEC_Warmabs]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
@@ -35,7 +35,7 @@ os = "linux"
 
     [[LibXSPEC_Warmabs.download]]
     sha256 = "c38471fd37fc8546bc336bb4a00611861226c0143929d33e4ae3235609d56138"
-    url = "https://github.com/local/releases/download/LibXSPEC_Warmabs-v2.58.5+0/LibXSPEC_Warmabs.v2.58.5.x86_64-linux-gnu-libgfortran4-cxx03.tar.gz"
+    url = "https://github.com/astro-group-bristol/LibXSPEC_Warmabs_jll.jl/releases/download/LibXSPEC_Warmabs-v2.58.5+0/LibXSPEC_Warmabs.v2.58.5.x86_64-linux-gnu-libgfortran4-cxx03.tar.gz"
 [[LibXSPEC_Warmabs]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -46,7 +46,7 @@ os = "linux"
 
     [[LibXSPEC_Warmabs.download]]
     sha256 = "c38471fd37fc8546bc336bb4a00611861226c0143929d33e4ae3235609d56138"
-    url = "https://github.com/local/releases/download/LibXSPEC_Warmabs-v2.58.5+0/LibXSPEC_Warmabs.v2.58.5.x86_64-linux-gnu-libgfortran4-cxx11.tar.gz"
+    url = "https://github.com/astro-group-bristol/LibXSPEC_Warmabs_jll.jl/releases/download/LibXSPEC_Warmabs-v2.58.5+0/LibXSPEC_Warmabs.v2.58.5.x86_64-linux-gnu-libgfortran4-cxx11.tar.gz"
 [[LibXSPEC_Warmabs]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
@@ -57,7 +57,7 @@ os = "linux"
 
     [[LibXSPEC_Warmabs.download]]
     sha256 = "62db5ba28be3286c3144a5443ae3fe53f89b177507878f9ee57b82a51cff611f"
-    url = "https://github.com/local/releases/download/LibXSPEC_Warmabs-v2.58.5+0/LibXSPEC_Warmabs.v2.58.5.x86_64-linux-gnu-libgfortran5-cxx03.tar.gz"
+    url = "https://github.com/astro-group-bristol/LibXSPEC_Warmabs_jll.jl/releases/download/LibXSPEC_Warmabs-v2.58.5+0/LibXSPEC_Warmabs.v2.58.5.x86_64-linux-gnu-libgfortran5-cxx03.tar.gz"
 [[LibXSPEC_Warmabs]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -68,4 +68,4 @@ os = "linux"
 
     [[LibXSPEC_Warmabs.download]]
     sha256 = "62db5ba28be3286c3144a5443ae3fe53f89b177507878f9ee57b82a51cff611f"
-    url = "https://github.com/local/releases/download/LibXSPEC_Warmabs-v2.58.5+0/LibXSPEC_Warmabs.v2.58.5.x86_64-linux-gnu-libgfortran5-cxx11.tar.gz"
+    url = "https://github.com/astro-group-bristol/LibXSPEC_Warmabs_jll.jl/releases/download/LibXSPEC_Warmabs-v2.58.5+0/LibXSPEC_Warmabs.v2.58.5.x86_64-linux-gnu-libgfortran5-cxx11.tar.gz"
