@@ -24,7 +24,6 @@ jobs:
       - uses: julia-actions/setup-julia@v2
         with:
           version: ${{ matrix.julia-version }}
-      - uses: actions/cache@v2
       - run: |
           git config --global user.email "isamborg@cosroe.com"
           git config --global user.name "Isamborg"
