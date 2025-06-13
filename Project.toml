@@ -1,6 +1,6 @@
 name = "LibXSPEC_Warmabs_jll"
 uuid = "cad11c8d-934b-5dad-a678-9ee9e5e00166"
-version = "2.58.5+0"
+version = "2.58.5+1"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
